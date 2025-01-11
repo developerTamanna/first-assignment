@@ -310,6 +310,7 @@ margin-top: 24px;
     font-weight: bold;
   }
   .news-1{
+    width: 1320px;
     display: flex;
     flex-direction: row;
     height: 350px;
